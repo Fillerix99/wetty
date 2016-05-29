@@ -1,6 +1,6 @@
 Wetty = Web + tty
 -----------------
-
+https://codeship.com/projects/154895/status?branch=master
 Terminal over HTTP and HTTPS. Wetty is an alternative to
 ajaxterm/anyterm but much better than them because wetty uses ChromeOS'
 terminal emulator (hterm) which is a full fledged implementation of
